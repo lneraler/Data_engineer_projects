@@ -20,6 +20,7 @@ Data_engineer_projects/
 │
 ├── data/
 │   └── Mental_Health_Care_in_the_Last_4_Weeks.csv
+|──images/
 ```
 
 ---
@@ -154,6 +155,8 @@ The dataset can be hosted and analyzed using **AWS RDS** and **S3**:
 - Execute queries from `sql_analysis.sql` for regional analysis and aggregation.
 
 ---
+##Images
+Contains images of results
 
 ## Key Findings
 
